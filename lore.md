@@ -23,7 +23,7 @@ The main character's name is Aghard. He needs to fulfill his destiny by taking b
 
 > Years passed, and Aghard became a skilled warrior and archer, traveling to different parts of Italy and Europe to hone his skills and learn about different cultures. He also heard rumors about a powerful dictator named Lucio, who had taken control of San Giovanni and was ruling it with an iron fist. Lucio was rumored to be a ruthless tyrant who oppressed the villagers, confiscated their lands and crops, and enslaved those who opposed him.
 
-> Aghard decided to return to his homeland and confront Lucio, despite knowing that it would be a dangerous and difficult task. He recruited a group of loyal companions, including his childhood friend Elena, a talented blacksmith named Marco, and a wise old monk named Giovanni. Together, they embarked on a perilous journey to San Giovanni, facing many obstacles and enemies along the way.
+> Aghard decided to return to his homeland and confront Lucio, despite knowing that it would be a dangerous and difficult task. He recruited a group of loyal companions, including his childhood friend Elena, a talented blacksmith named Marco, and a wise old monk named Salvatore. Together, they embarked on a perilous journey to San Giovanni, facing many obstacles and enemies along the way.
 
 > When they finally reached the village, they found it in a state of despair and misery. The streets were deserted, the buildings were in ruins, and the villagers were starving and afraid. Lucio's soldiers were everywhere, patrolling the streets and enforcing his cruel laws.
 
