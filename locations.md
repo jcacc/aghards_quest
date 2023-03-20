@@ -7,3 +7,5 @@
 **The Mines of Monselice**: A vast network of underground mines, where workers toil under the watchful eye of a cruel overseer. Aghard must free the miners and lead them to safety, while avoiding the traps and hazards of the mines.
 
 **The Forest of Fontainebleau**: A dense forest that spans miles, and is home to a tribe of bandits and outlaws. Aghard must venture into the forest, fighting off the bandits and negotiating with the friendly inhabitants, including Marco and Salvatore, who have set up a secret blacksmithing operation deep in the woods.
+
+**San Giovanni**: A once-beautiful village nestled in the rolling hills of Italy, now reduced to rubble and ruin under the tyrannical rule of Lucio. The village is surrounded by a high wall, with guard towers at each corner and armed soldiers patrolling the streets. Inside the walls, the villagers live in squalor and poverty, with scarce food and water, and frequent raids by Lucio's soldiers.
