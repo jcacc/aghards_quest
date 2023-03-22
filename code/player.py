@@ -2,12 +2,6 @@ import pygame
 from settings import *
 
 class Player(pygame.sprite.Sprite):
-<<<<<<< HEAD
-	def __init__(self,pos,groups):
-		super().__init__(groups)
-		self.image = pygame.image.load('graphics\\test\\player.png').convert_alpha()
-		self.rect = self.image.get_rect(topleft = pos)
-=======
     
     def __init__(self,pos,groups):
         super().__init__(groups)
@@ -46,4 +40,3 @@ class Player(pygame.sprite.Sprite):
         self.input()
         self.move(self.speed)
 
->>>>>>> 17d68fefbb9b04de95fb9be7e93aa2f7cefe289c
