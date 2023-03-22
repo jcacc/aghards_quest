@@ -33,4 +33,5 @@ class Player(pygame.sprite.Sprite):
 
 def update(self):
     self.input()
-    self.move(self.speed)
+    self.rect.move_ip(self.direction * self.speed)
+
