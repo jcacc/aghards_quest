@@ -32,14 +32,19 @@ class Level:
         self.player.input()
 
         # update the player's position
-        self.player.update()
+        self.player.rect.move_ip(self.player.direction * self.player.speed)
 
         # draw the game world
-        self.visible_sprites.draw(self.display_surface)
         self.visible_sprites.update()
+        self.visible_sprites.draw(self.display_surface)
+        print("Player update called:", self.player)
 
         # debug the player's direction
         debug(self.player.direction)
+    
+    def draw(self, surface):
+        self.visible_sprites.draw(surface)
+
 
 
 
